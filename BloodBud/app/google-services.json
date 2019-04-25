@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "908620524467",
+    "firebase_url": "https://bloodbud-2b67f.firebaseio.com",
+    "project_id": "bloodbud-2b67f",
+    "storage_bucket": "bloodbud-2b67f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908620524467:android:589495f72490fcfa",
+        "android_client_info": {
+          "package_name": "com.example.divyanarahari.bloodbud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908620524467-m04gi5gg5hp0ibaj89a7go6homi8qu1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.divyanarahari.bloodbud",
+            "certificate_hash": "019ec6b7147b11fdb5c1cc8288ac3dabed24d5bc"
+          }
+        },
+        {
+          "client_id": "908620524467-bk8e2229op1h9cquvt0ke4sv85mlt9go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGhXERYks_YM5lNn76ucBSjLuwLEU09Yk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908620524467-bk8e2229op1h9cquvt0ke4sv85mlt9go.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
